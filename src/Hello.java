@@ -9,6 +9,7 @@ public class Hello {
 	public static void main(String[] args) {
 		
 		//Added a comment
+		//Added 2nd comment
 		//System.out.println("Hello, World!");
 				
 		WebDriver wd_firefox = new FirefoxDriver();
